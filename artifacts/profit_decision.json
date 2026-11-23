@@ -8,9 +8,9 @@
     "daily_holding_cost_per_quintal": 15.0
   },
   "forecast_prices_rupees": {
-    "1": 1639.73,
-    "3": 1680.2,
-    "7": 1732.56
+    "1": 1650.12,
+    "3": 1689.89,
+    "7": 1737.46
   },
   "evaluated_options": [
     {
@@ -22,31 +22,31 @@
     },
     {
       "wait_days": 1,
-      "predicted_modal_price_per_quintal": 1639.73,
-      "gross_revenue_rupees": 16397.3,
+      "predicted_modal_price_per_quintal": 1650.12,
+      "gross_revenue_rupees": 16501.2,
       "total_logistics_cost_rupees": 2850.0,
-      "net_profit_rupees": 13547.3
+      "net_profit_rupees": 13651.2
     },
     {
       "wait_days": 3,
-      "predicted_modal_price_per_quintal": 1680.2,
-      "gross_revenue_rupees": 16802.0,
+      "predicted_modal_price_per_quintal": 1689.89,
+      "gross_revenue_rupees": 16898.9,
       "total_logistics_cost_rupees": 3150.0,
-      "net_profit_rupees": 13652.0
+      "net_profit_rupees": 13748.9
     },
     {
       "wait_days": 7,
-      "predicted_modal_price_per_quintal": 1732.56,
-      "gross_revenue_rupees": 17325.6,
+      "predicted_modal_price_per_quintal": 1737.46,
+      "gross_revenue_rupees": 17374.6,
       "total_logistics_cost_rupees": 3750.0,
-      "net_profit_rupees": 13575.6
+      "net_profit_rupees": 13624.6
     }
   ],
   "recommended_action": {
     "wait_days": 3,
-    "predicted_modal_price_per_quintal": 1680.2,
-    "gross_revenue_rupees": 16802.0,
+    "predicted_modal_price_per_quintal": 1689.89,
+    "gross_revenue_rupees": 16898.9,
     "total_logistics_cost_rupees": 3150.0,
-    "net_profit_rupees": 13652.0
+    "net_profit_rupees": 13748.9
   }
 }
