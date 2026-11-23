@@ -2,10 +2,15 @@
   "as_of_date": "2025-06-11",
   "current_modal_price_per_quintal": 1630.0,
   "quantity_quintals": 10.0,
+  "cost_assumptions_rupees": {
+    "transport_cost_per_quintal": 120.0,
+    "fixed_trip_cost": 1500.0,
+    "daily_holding_cost_per_quintal": 15.0
+  },
   "forecast_prices_rupees": {
-    "1": 1549.17,
-    "3": 1561.69,
-    "7": 1553.94
+    "1": 1639.73,
+    "3": 1680.2,
+    "7": 1732.56
   },
   "evaluated_options": [
     {
@@ -17,31 +22,31 @@
     },
     {
       "wait_days": 1,
-      "predicted_modal_price_per_quintal": 1549.17,
-      "gross_revenue_rupees": 15491.7,
+      "predicted_modal_price_per_quintal": 1639.73,
+      "gross_revenue_rupees": 16397.3,
       "total_logistics_cost_rupees": 2850.0,
-      "net_profit_rupees": 12641.7
+      "net_profit_rupees": 13547.3
     },
     {
       "wait_days": 3,
-      "predicted_modal_price_per_quintal": 1561.69,
-      "gross_revenue_rupees": 15616.9,
+      "predicted_modal_price_per_quintal": 1680.2,
+      "gross_revenue_rupees": 16802.0,
       "total_logistics_cost_rupees": 3150.0,
-      "net_profit_rupees": 12466.9
+      "net_profit_rupees": 13652.0
     },
     {
       "wait_days": 7,
-      "predicted_modal_price_per_quintal": 1553.94,
-      "gross_revenue_rupees": 15539.4,
+      "predicted_modal_price_per_quintal": 1732.56,
+      "gross_revenue_rupees": 17325.6,
       "total_logistics_cost_rupees": 3750.0,
-      "net_profit_rupees": 11789.4
+      "net_profit_rupees": 13575.6
     }
   ],
   "recommended_action": {
-    "wait_days": 0,
-    "predicted_modal_price_per_quintal": 1630.0,
-    "gross_revenue_rupees": 16300.0,
-    "total_logistics_cost_rupees": 2700.0,
-    "net_profit_rupees": 13600.0
+    "wait_days": 3,
+    "predicted_modal_price_per_quintal": 1680.2,
+    "gross_revenue_rupees": 16802.0,
+    "total_logistics_cost_rupees": 3150.0,
+    "net_profit_rupees": 13652.0
   }
 }

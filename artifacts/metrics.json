@@ -1,6 +1,6 @@
 {
-  "mae_rupees": 94.14,
-  "rmse_rupees": 144.54,
-  "epochs_ran": 22,
+  "mae_rupees": 74.43,
+  "rmse_rupees": 114.8,
+  "epochs_ran": 44,
   "test_samples": 118
 }
