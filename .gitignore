@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.config/
+sample_data/
+mandi_prices.csv
+artifacts/
